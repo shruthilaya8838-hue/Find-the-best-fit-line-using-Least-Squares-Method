@@ -58,7 +58,6 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
 
 <img width="780" height="681" alt="Screenshot 2026-04-20 143234" src="https://github.com/user-attachments/assets/b1b72c74-44ac-4b18-950e-23d406b27f3d" />
 
